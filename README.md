@@ -1,1 +1,1 @@
-# Writeups Interiut 2024
+# Writeups for some of my challenges (when someone ask)
